@@ -8,5 +8,5 @@ applications:
   - media-database
 ...
 routes:
-  - route: <initials>-moviefun.apps.pcf.paltraining.perficient.
+  - route: srokde-moviefun.apps.pcf.paltraining.perficient.
 ...
